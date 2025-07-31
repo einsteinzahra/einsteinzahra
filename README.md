@@ -42,6 +42,3 @@
 
 ---
 
-### 🤣 A Bit of Humor:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
