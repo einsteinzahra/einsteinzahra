@@ -23,11 +23,6 @@
 - **Python**, **SQL**
 - **Git**, **GitHub**
 
-### 📈 GitHub Stats:
-
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedmohsen&show_icons=true&theme=dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohsen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### ✍ Blog Posts:
