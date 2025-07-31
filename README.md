@@ -15,6 +15,7 @@
 - 🎓 I graduated with **Distinction (Excellent)** from **Al-Azhar University – Faculty of Health Technical Institute**, Department of **Medical Records & Statistics**.
 - 🧒 I also work as a **programming instructor for children**, making coding fun and accessible for young learners.
 - 🧠 I'm the founder of **Einstein Code Academy**, where I lead tech-based educational initiatives for kids and beginners.
+- 🎤 I was a **speaker at AI World Event** organized by **Anwar Resala Association**.
 
 ### 🛠 Tools & Technologies I use:
 
@@ -24,7 +25,7 @@
 
 ### 📈 GitHub Stats:
 
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedmohsen&show_icons=true&theme=dark)
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=mohamedmohsen&show_icons=true&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmohsen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -39,6 +40,4 @@
 
 ### 🎯 Fun Fact:
 > "Teaching kids to code is not about becoming programmers, it's about teaching them how to think."
-
----
 
